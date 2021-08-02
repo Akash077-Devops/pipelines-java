@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sarodeakash077/JavaProject/_apis/build/status/Akash077-Devops.pipelines-java?branchName=master)](https://dev.azure.com/sarodeakash077/JavaProject/_build/latest?definitionId=27&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
